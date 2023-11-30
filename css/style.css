@@ -1,0 +1,36 @@
+:root{
+ --brand-color: #FF6C00
+}
+
+.social-media-link {
+    color: #303030;
+}
+
+.social-media-link:hover {
+    color: var(--brand-color);
+}
+
+
+.hero-content {
+    /* TODO: replace with image background */
+    background-color: #303030;
+    color: #FFFFFF;
+}
+
+.nav-about {
+    color: var(--brand-color);
+}
+
+.nav-link {
+    color: #FFFFFF;
+}
+
+.address-phone-number {
+    color: #FFFFFF;
+}
+
+.book-service {
+    background-color: transparent;
+    color: #FFFFFF;
+    border-color: var(--brand-color);
+}
